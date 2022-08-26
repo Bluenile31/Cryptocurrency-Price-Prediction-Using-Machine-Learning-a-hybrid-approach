@@ -10,4 +10,7 @@ price prediction with high-dimensional features achieve an accuracy of 93% and 9
 with benchmark results for daily price prediction, we achieve a better performance, with the highest accuracy of the machine learning algorithm of 97%. Our Hybrid 
 Machine learning model including Support Vector Regression and Autoregressive integrated moving average for One month’s Cryptocurrency price prediction is superior to  
 other Machine learning methods, with accuracy reaching 97%. Our investigation of Cryptocurrency price prediction can be considered a pilot study of the importance of the
-sample dimension in machine learning techniques
+sample dimension in machine learning techniques.
+
+
+Extract the rar file for detailed project.
